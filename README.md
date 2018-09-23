@@ -3,8 +3,8 @@ Estimation of river flow based on Manning method
 
 Authors:
 
-Douglas Coimbra de Andrade
-Melina Almeida Gonçalves
+- Douglas Coimbra de Andrade
+- Melina Almeida Gonçalves
 
 # Summary
 
@@ -13,6 +13,8 @@ This repository presents code to automate the computation of river flow curve ba
 Construction of land pipelines involves crossing all types of different terrain, including wet areas and rivers. In the case of rivers, it is important to correctly estimate the water flow and the maximum elevation of flooding to measure the required length of pipeline ballasting and beyond the safe level installation of structures on the river banks.
 
 The flow estimation is often computed based on numerous measurements of area and wetted perimeter from the deformed sections of the rivers, which usually involves an excessive amount of manual labor.
+
+![Software screen](RiverFlow.png)
 
 # How to use this code
 
