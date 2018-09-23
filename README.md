@@ -20,8 +20,8 @@ The flow estimation is often computed based on numerous measurements of area and
 
 ## Run with your data
 
-- Download the binaries VazaoRio.exe and ZedGraph.xml to the same folder;
-- Edit height data with x (shore distance) and y (river height) data OR load from a file;
+- Download Windows binaries [VazaoRio.exe](https://github.com/douglas125/RiverFlow/blob/master/VazaoRio/bin/Debug/VazaoRio.exe?raw=true) and [ZedGraph.dll](https://github.com/douglas125/RiverFlow/blob/master/VazaoRio/bin/Debug/ZedGraph.dll?raw=true) to the same folder. Note: these are binaries, you may be warned not to run/download them. Feel free to download the source and recompile if you prefer;
+- Edit height data with `x` (shore distance) and `y` (river height) data OR load from a file;
 - You can also copy/paste the data from Excel;
 - Visualize the profile in the Profile tab;
 - Compute the flow curve in the Flow Curve tab.
