@@ -341,10 +341,10 @@
             this.cmbRugosidade.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbRugosidade.FormattingEnabled = true;
             this.cmbRugosidade.Items.AddRange(new object[] {
-            "35E-2 - Grandes rios",
-            "30E-2 - Rios limpos e planos",
-            "40E-2 - Rios com barro / rugosos",
-            "Outros"});
+            "35E-2 - Large rivers",
+            "30E-2 - Clean plain rivers",
+            "40E-2 - Muddy or wrinkled rivers",
+            "Others"});
             this.cmbRugosidade.Location = new System.Drawing.Point(531, 18);
             this.cmbRugosidade.Name = "cmbRugosidade";
             this.cmbRugosidade.Size = new System.Drawing.Size(189, 21);
@@ -451,18 +451,18 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(162, 48);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(147, 13);
+            this.label6.Size = new System.Drawing.Size(113, 13);
             this.label6.TabIndex = 1;
-            this.label6.Text = "n = coeficiente de rugosidade";
+            this.label6.Text = "n = rugosity coefficient";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
             this.label9.Location = new System.Drawing.Point(6, 51);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(86, 13);
+            this.label9.Size = new System.Drawing.Size(76, 13);
             this.label9.TabIndex = 1;
-            this.label9.Text = "Q = vazão (m³/s)";
+            this.label9.Text = "Q = flow (m³/s)";
             // 
             // label5
             // 
