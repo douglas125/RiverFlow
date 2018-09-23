@@ -4,7 +4,7 @@ Estimation of river flow based on Manning method
 Authors:
 
 - Douglas Coimbra de Andrade
-- Melina Almeida Gonçalves
+- Melina Almeida Gonçalves Rabelo
 
 # Summary
 
